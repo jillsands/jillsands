@@ -6,7 +6,7 @@
 
 Hello! I'm Jillian, a student at the University of Maryland, College Park. I'm searching for New Grad and Entry-Level Positions as as a Software Engineer. 
 - 🎓  I study Computer Science with an anticipated graduation in May 2024. I also have a minor in Spanish!
-- 🌱  I'm currently studying Computer and Network Security, Advanced Data Structures, Programming Handheld Systems.
+- 🌱  I'm currently studying Computer and Network Security (C), Advanced Data Structures (Java), and Android App Development (Kotlin).
 - 🍝 In my free time, I love to cook while listening to a good podcast or audiobook.
 - 👩🏽‍💻 I'm currently working on.... <br>
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jillsands&repo=ontrack2)](https://github.com/jillsands/OnTrack2)
