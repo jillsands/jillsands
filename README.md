@@ -4,7 +4,7 @@
   <a href="mailto:jesands21@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jesands21@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 </p>
 
-Hello! I'm Jillian, a student at the University of Maryland, College Park. I'm searching for New Grad and Entry-Level Positions as as a Software Engineer. 
+Hello! I'm Jillian, a student at the University of Maryland, College Park.
 - 🎓  I study Computer Science with an anticipated graduation in May 2024. I also have a minor in Spanish!
 - 🌱  I'm currently studying Computer and Network Security (C), Advanced Data Structures (Java), and Android App Development (Kotlin).
 - 🍝 In my free time, I love to cook while listening to a good podcast or audiobook.
